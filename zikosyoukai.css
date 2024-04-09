@@ -1,14 +1,14 @@
 .haikei1{
-    background-image: url("C:/Users/axiz/Documents/Sample_Web/自己紹介サイト/gazou/neko.jpg");
+    background-image: url("/gazou/neko.jpg");
     margin: 20%;    
 }
 
 .haikei2{
-    background-image: url("C:/Users/axiz/Documents/Sample_Web/自己紹介サイト/gazou/colorful-abstract-art-background_53876-88841.avif")
+    background-image: url("gazou/colorful-abstract-art-background_53876-88841.avif")
 }
 
 .haikei3{
-    background-image: url("C:/Users/axiz/Documents/Sample_Web/自己紹介サイト/gazou/pastel_00048.jpg");
+    background-image: url("gazou/pastel_00048.jpg");
 }
 .box{
     text-align: center;
